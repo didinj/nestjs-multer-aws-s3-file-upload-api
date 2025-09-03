@@ -1,6 +1,6 @@
 # Create a File Upload API with NestJS, Multer, and AWS S3
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68b79414ca3a471d0824e649/create-a-file-upload-api-with-nestjs-multer-and-aws-s3).
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
